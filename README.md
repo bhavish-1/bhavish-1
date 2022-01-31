@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhavish-1
-- 👀 I’m interested in 
+- 👀 I’m interested in opensource development
 - 🌱 I’m currently learning tensorflow 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on twitter/instagram
