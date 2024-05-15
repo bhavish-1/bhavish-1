@@ -11,8 +11,6 @@
 
 - 📫 You can reach me at **bhavishpothuraju123@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1X3rBz95xNdn1p35XFevOj098LP-n4bh6/view?usp=sharing](https://drive.google.com/file/d/1X3rBz95xNdn1p35XFevOj098LP-n4bh6/view?usp=sharing)
-
 - ⚡ Fun fact **I can make you laugh 😁**
 
 <h3 align="left">Connect with me:</h3>
