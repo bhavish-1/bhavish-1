@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Bhavish Pothuraju</h1>
-<h3 align="center">Passionate about Machine Learning, Deep Learning and love Solving Problems in Software Development</h3>
+<h3 align="center">Passionate about Machine Learning, Deep Learning and love Solving Problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavish-1&label=Profile%20views&color=0e75b6&style=flat" alt="bhavish-1" /> </p>
 
