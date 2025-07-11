@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavish-1&label=Profile%20views&color=0e75b6&style=flat" alt="bhavish-1" /> </p>
 
-- 🔭 I’m currently working on **NLP Project (Sentiment Analysis)**
+- 🔭 Currently working on developing Computer Vision and LLM-based solutions for medical data..
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhavish-1](https://github.com/bhavish-1)
 
-- 💬 You can Ask me about **Machine Learning and Deep learning**
+- 💬 You can Ask me about **Machine Learning, Deep learning and LLm's**
 
 - 📫 You can reach me at **bhavishpothuraju123@gmail.com**
 
